@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="thumbnail_height">16dp</dimen>
+    <dimen name="thumbnail_width">2dp</dimen>
+
+
+    <dimen name="bigText1">20sp</dimen>
+    <dimen name="bigText2">18sp</dimen>
+    <dimen name="bigText3">16sp</dimen>
+</resources>

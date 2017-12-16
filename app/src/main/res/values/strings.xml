@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PreneurLab2</string>
+    <string name="box1Header">Address</string>
+    <string name="box1Text">The quick brown fox jumps over the lazy dog.</string>
+    <string name="box2Header">Facilities</string>
+    <string name="box2Text">Opening Time: 9:00am \nClosing Time: 5pm</string>
+</resources>
